@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\BudgetBuddy.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin\\BudgetBuddy\\BudgetBuddy.csproj",
       "projectName": "BudgetBuddy",
-      "projectPath": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\BudgetBuddy.csproj",
+      "projectPath": "C:\\Users\\Kevin\\BudgetBuddy\\BudgetBuddy.csproj",
       "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\",
+      "outputPath": "C:\\Users\\Kevin\\BudgetBuddy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
