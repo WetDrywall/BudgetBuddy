@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BudgetBuddy
 build_property.RootNamespace = BudgetBuddy
-build_property.ProjectDir = C:\Users\Kevin\source\repos\BudgetBuddy\
+build_property.ProjectDir = C:\Users\TeisH\Source\Repos\BudgetBuddy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kevin\source\repos\BudgetBuddy
+build_property.MSBuildProjectDirectory = C:\Users\TeisH\Source\Repos\BudgetBuddy
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/App.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/Pages/Error.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/Pages/Home.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/Routes.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/_Imports.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/Layout/MainLayout.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-qi66u6j258
 
-[C:/Users/Kevin/source/repos/BudgetBuddy/Components/Layout/NavMenu.razor]
+[C:/Users/TeisH/Source/Repos/BudgetBuddy/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-p01c4vs1h2

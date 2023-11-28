@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ghdsLkCBO9WKYK1YML5Kt3tMjCR3/KQQLt95xTkRexs=",
+  "Hash": "oHYLuIn/RzpoK360dNI7ze4xQu/ZCFxnScVAXlZz1cc=",
   "Source": "BudgetBuddy",
   "BasePath": "_content/BudgetBuddy",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BudgetBuddy\\wwwroot",
       "Source": "BudgetBuddy",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\",
       "BasePath": "_content/BudgetBuddy",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetBuddy.styles.css",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetBuddy.styles.css",
       "SourceId": "BudgetBuddy",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "BudgetBuddy.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetBuddy.styles.css"
+      "OriginalItemSpec": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BudgetBuddy.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetBuddy.bundle.scp.css",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetBuddy.bundle.scp.css",
       "SourceId": "BudgetBuddy",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "BudgetBuddy.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetBuddy.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BudgetBuddy.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\app.css",
       "SourceId": "BudgetBuddy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BudgetBuddy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BudgetBuddy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\favicon.png",
       "SourceId": "BudgetBuddy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\wwwroot\\",
       "BasePath": "_content/BudgetBuddy",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

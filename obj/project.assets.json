@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\TeisH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\BudgetBuddy.csproj",
+      "projectUniqueName": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\BudgetBuddy.csproj",
       "projectName": "BudgetBuddy",
-      "projectPath": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\BudgetBuddy.csproj",
-      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin\\source\\repos\\BudgetBuddy\\obj\\",
+      "projectPath": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\BudgetBuddy.csproj",
+      "packagesPath": "C:\\Users\\TeisH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TeisH\\Source\\Repos\\BudgetBuddy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TeisH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
